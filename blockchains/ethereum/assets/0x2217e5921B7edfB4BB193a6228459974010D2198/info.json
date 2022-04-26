@@ -7,5 +7,19 @@
     "symbol": "QMALL",
     "decimals": 18,
     "status": "active",
-    "id": "0x2217e5921B7edfB4BB193a6228459974010D2198"
+    "id": "0x2217e5921B7edfB4BB193a6228459974010D2198",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/QmallExchange"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/qmall.io"
+        },
+        {
+            "name": "instagram",
+            "url": "https://www.instagram.com/qmallua/"
+        }
+    ]
 }
